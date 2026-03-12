@@ -1,0 +1,6 @@
+nama = input("masukkan nama kamu:")
+umur = int(input("masukkan umur kamu:"))
+hobi = input("masukkan hobi kamu:")
+print("nama saya adalah", nama)
+print("umur saya sekarang adalah", umur, "dan umur saya 10 tahun ke dapan adalah", umur + 10)
+print("hobi saya adalah", hobi)
